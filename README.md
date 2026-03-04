@@ -1,23 +1,34 @@
-# Jarvis Voice Assistant
+# 🤖 Jarvis Voice Assistant
 
-This is a Python based voice assistant project.
+A Python-based voice assistant that can perform tasks using voice commands.
 
-## Features
-- Voice command recognition
-- Open Google, YouTube, Facebook, LinkedIn
-- Play songs from music library
-- Fetch latest news using NewsAPI
-- Speak responses using gTTS
+---
 
-## Technologies Used
+## 📸 Project Demo
+
+![Jarvis Screenshot](https://via.placeholder.com/800x400.png?text=Jarvis+Voice+Assistant)
+
+---
+
+## 🚀 Features
+
+- 🎤 Voice command recognition
+- 🌐 Open Google, YouTube, Facebook, LinkedIn
+- 🎵 Play songs from music library
+- 📰 Fetch and read latest news headlines
+- 🔊 Text-to-speech using Google Text-to-Speech (gTTS)
+
+---
+
+## 🛠 Technologies Used
+
 - Python
 - SpeechRecognition
-- gTTS
-- Requests
+- gTTS (Google Text-to-Speech)
+- Requests (News API)
 - PyAudio
+- Webbrowser module
 
-## Run the Project
+---
 
-pip install -r requirements.txt
-
-python main.py
+## 📂 Project Structure
